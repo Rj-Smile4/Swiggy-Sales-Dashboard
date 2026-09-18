@@ -99,7 +99,7 @@ The workbook consists of three primary layers:
 
 ## 🙏 Acknowledgements
 
-Special thanks and sincere gratitude to **Satyam Mishra Sir** for his guidance, mentorship, and continuous support throughout the development of this project.
+Special thanks and sincere gratitude to **Satyam Mishra Sir** for his guidance, mentorship, and continuous support throughout the development of this project, and to the **Data Tutorials** YouTube channel for the insightful learning resources and practical tutorials.
 
 ## 📂 Repository File Structure
 
