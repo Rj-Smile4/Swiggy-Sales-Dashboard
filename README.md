@@ -97,6 +97,10 @@ The workbook consists of three primary layers:
 * **Portfolio / LinkedIn:** [Raju Raidas](https://www.linkedin.com/in/rajuraidas6253/)
 * **GitHub:** [@Rj-Smile4](https://github.com/Rj-Smile4)
 
+## 🙏 Acknowledgements
+
+Special thanks and sincere gratitude to **Satyam Mishra Sir** for his guidance, mentorship, and continuous support throughout the development of this project.
+
 ## 📂 Repository File Structure
 
 ```text
